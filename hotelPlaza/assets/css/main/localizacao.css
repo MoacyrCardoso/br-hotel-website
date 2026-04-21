@@ -1,0 +1,8 @@
+.localizacao {
+    text-align: center;
+    margin-bottom: 8px;
+}
+
+.localizacao__titulo {
+    font-size: 2rem;
+}
